@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a cavaliere, with his brother seperatist· Both striving which shall bee most active in dividing the two nations, now so happily, by the blessing of God, united.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78581</idno>
+            <idno type="STC">Wing C1964</idno>
+            <idno type="STC">Thomason E383_5</idno>
+            <idno type="STC">ESTC R201429</idno>
+            <idno type="EEBO-CITATION">99861940</idno>
+            <idno type="PROQUEST">99861940</idno>
+            <idno type="VID">160176</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160176)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E383[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a cavaliere, with his brother seperatist· Both striving which shall bee most active in dividing the two nations, now so happily, by the blessing of God, united.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.H.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 31".</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  17th century --  Early works to 1800.</term>
+               <term>Separatists --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160176:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>THE CHARACTER OF A CAVALIERE, With his Brot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er SEPERATIST.</p>
+            <p>Both ſtriving which ſhall bee moſt active in dividing the two Nations, now ſo happily, by the bleſſing of GOD, united.</p>
+            <q>
+               <bibl>PSAL. 126.3.</bibl>
+               <p>The Lord hath done great things for us, whereof wee are glad.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. H.</hi> 1547.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:160176:2"/>
+            <!-- PDF PAGE 8 -->
+            <p>of Treacherie, and cunning Contrivance, <hi>viz.</hi> when wee be<g ref="char:EOLhyphen"/>gan to look for ſome <hi>happineſſe</hi> after ſo much <hi>miſerie,</hi> how cun<g ref="char:EOLhyphen"/>ningly did this <hi>Jeſuite,</hi> this <hi>Inc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndiarie,</hi> this <hi>Malignant-Rebell,</hi> this <hi>Cavalier,</hi> thruſt in differences to divide <hi>us and our Breth<g ref="char:EOLhyphen"/>ren of Scotland,</hi> to which wicked ends how many traines hath he layd? how many Plots and Conſpiracies undertaken, yet all invaine? how many Satyricall Invectives have been by him publiſhed under the Notion of <hi>Independency,</hi> when we could plainly perceive, that under this vizard there was the inveterate Malice of our old Adverſarie, the <hi>Jeſuited Cavaleere,</hi> which had no other hopes to raiſe his fortune but by our fall, and make himſelfe happy by our ruine? which fault you have him here confeſſing, with all other his Crimes and miſdeameanors a<g ref="char:EOLhyphen"/>gainſt the King, Parliament, and Kingdome, doing pennance in a <hi>Sheet,</hi> and crying guilty of all the bloud that hath been ſpilt within his Majeſties Dominion.</p>
+            <p>
+               <hi>He confeſſes that</hi> he has been a <hi>Malignant Adverſarie</hi> againſt Church and State.</p>
+            <p>
+               <hi>He confeſſes</hi> (how at laſt) that he has been ſuch a <hi>ſtubborn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wretch,</hi> that he has rendred himſelfe almoſt uncapable of fa<g ref="char:EOLhyphen"/>vour, notwithſtanding all our <hi>Parliamentary mercies,</hi> in offe<g ref="char:EOLhyphen"/>ring and proffering pardon to him, if he would come in and ſubmit, before the day of mercy were paſt. 'Twere <hi>nihil ad Rhombum,</hi> for me to relate up here how many ſuch precious opportunities he hath ſlighted and neglected.</p>
+            <p>
+               <hi>He confeſſes,</hi> that hee hath been ſuch an <hi>Incendiarie,</hi> as (<hi>Phaeton</hi>-like) able to ſet the whole world on a fire: Truely I think his Epitaph ſuits not amiſſe to this purpoſe.</p>
+            <q>
+               <l>"<note n="*" place="margin">
+                     <bibl>Sandys <hi>Tranſl.</hi> Ovid <hi>Metam.</hi>
+                     </bibl>
+                  </note>Here <hi>Phaeton</hi> lyes, who though he could not guide</l>
+               <l>"His Fathers Steeds, in high attempts he dy'd.</l>
+            </q>
+            <p>I have obſerved many that write <hi>Characters,</hi> as <hi>Overbury, Curere, Shelton,</hi> &amp;c. But there's never any as yet met with the Character of a <hi>Cavalier.</hi> There was one (they call him <hi>Cleve<g ref="char:EOLhyphen"/>land</hi>) that writ the <hi>Character</hi> of a <hi>London Diurnall;</hi> in which there was more of Wit then Honeſty, more of Prophaneneſſe then Piety.</p>
+            <p>
+               <pb n="3" facs="tcp:160176:3"/>
+               <!-- PDF PAGE 9 -->
+But to our <hi>Character:</hi> Here you have his poor <hi>Gentle<g ref="char:EOLhyphen"/>man Cavaliere,</hi> but in <hi>one ſheet;</hi> whoſe greedy Ambition (not long ſince) ſcaree all the Wealth of <hi>Europe</hi> could have ſatiſ<g ref="char:EOLhyphen"/>fied; The Eaſt not the Well ſo bee bounding his unlimitted deſires.</p>
+            <p>Hee's the onely man of all Memory, whoſe unworthy Actions will perpetuate his Memorie to enſuing Generations. His very Name will be odious; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when Poſterity (willing to caſt a reflection on the deeds or their Predeceſſors) ſhall find his name mentioned in our <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>lls; they <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll bee inquiſitive to know the Nature of the Be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt: This <hi>Skellum,</hi> this <hi>Nigro carbone notatus,</hi> this <hi>Monſtrum horrendun.</hi> He is one that bares an <hi>univerſall Hatred</hi> againſt <hi>Unity,</hi> and hates no Text of Scripture ſo much as (133. <hi>Pſalme,</hi> 1 <hi>verſe</hi>) <hi>Behold how good, and how pleaſant it is for Brethren to dwell together in Unity.</hi>
+            </p>
+            <p>And therefore hee beares an <hi>immortall hatred</hi> againſt our <hi>Brethren of Scotland,</hi> and there's nothing that ſounds ſo harſh in his eares, as the name of <hi>Britanny:</hi> What (ſaies he) <hi>Eng<g ref="char:EOLhyphen"/>land and Scotland United?</hi> then there's no hopes: wee have cauſe to rejoyce, that <hi>our Brethrens fidel<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty</hi> hath fruſtrated their hopes, to the eternall honour of that N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion.</p>
+            <p>He cannot endure the very word <hi>Covenant,</hi> 'tis the worſt <hi>Character</hi> that ever he ſaw; that bindes <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ogether for main<g ref="char:EOLhyphen"/>taining and ſetling the Religion, Rights, Lawes, and Liberties of both Kingdomes.</p>
+            <p>He hates a <hi>Parliament,</hi> the very word p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts him beſides his Wits: Before this <hi>Parliament</hi> was call'd, there was one of them heard ſay, (when there was talking of a Parliament) <hi>Nay then we are undone,</hi> though <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alſe in other things, yet a true Prophet in this.</p>
+            <p>He ſayes, He loves a <hi>true Parliament,</hi> which is (if he may be his owne <hi>id eſt</hi>) a <hi>Junto,</hi> an <hi>Oxford Parliament:</hi> or ſuch an One that would claime no power, <hi>a <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Parliament,</hi> that may onely give advice and Coun<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell.</p>
+            <p>He <hi>hates ſlavery</hi> above all things, and ſo he hates himſelfe: for he ſold himſelfe a ſlave to baſeneſſe. The King he ſaith may take away whatſoever he hath, and diſpoſe of mens fortunes, perſons, or eſtates at his pleaſure, without the controlment of
+<pb n="4" facs="tcp:160176:4"/>
+               <!-- PDF PAGE 10 -->any humane power. Which muſt doe nothing againſt him, (though never ſo wicked) <hi>coercivè,</hi> but all <hi>directivé:</hi> All our Armes muſt be <hi>Suadeo, Rogo, Hortor, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, quaeſo, &amp;c. And if he be in an errour, he may make new <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>awes to defend that er<g ref="char:EOLhyphen"/>rour.</hi> If he will <hi>murther</hi> us, if <hi>baniſh,</hi> if <hi>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> priſon,</hi> or <hi>confiſcate</hi> our Eſtates, <hi>ſtone,</hi> or <hi>behead</hi> us; there's none may ſay, <hi>Quid Agis? What doſt thou?</hi> This is his ordinary Diſcourſe, and that that proves a <hi>Paradox</hi> to another, he takes for a granted Truth.</p>
+            <p>But to ſpeak of ſome thing that he <hi>loves</hi> as well as <hi>hates.</hi>
+            </p>
+            <p>He has an indifferent good conceit of Q. <hi>Elizabeth,</hi> and ſtands for the Religion (as eſtabliſhed) in the dayes of Queen <hi>Elizabeths</hi> ſiſter.</p>
+            <p>He has a better opinion of the <hi>Spaniard</hi> then formerly the <hi>Engliſh</hi> uſe to have, in regard he hopes he will contribute ſome helpe to the <hi>Catholique Cauſe in Ireland.</hi>
+            </p>
+            <p>He loves <hi>peace</hi> (at any rates) now he ſees hee can no longer prolong the warres, and railes againſt us becauſe there is <hi>no peace;</hi> no matter for <hi>Truth,</hi> that being a thing he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never met with in all his <hi>plundring Progreſſe.</hi>
+            </p>
+            <p>And for <hi>Militarie Affaires,</hi> as hee hates the <hi>Militia</hi> ſo hee loves the <hi>Commiſſion of Array,</hi> which Armes the Subject a<g ref="char:EOLhyphen"/>gainſt himſelfe, and puts a ſword into his hands to dig out his owne Bowels.</p>
+            <p>He was (when <hi>Oxford, Briſtoll, Exeter Worceſter, York. &amp;c.</hi> were under the unhappy power of his command) of a ſtout ſto<g ref="char:EOLhyphen"/>mach, haughty, proud, deſperately audacious not enduring to be ſubject to the ſeverity of Lawes. The reaſon why I dip my Pen in Vinegar, &amp; fight againſt him with my Quill (that fought againſt us with his Sword) is that of <hi>Tertullian, Contra hoſtem communem omnis homo eſt miles;</hi> Every one will bee an <hi>Enemy</hi> to a <hi>common Enemy.</hi>
+            </p>
+            <p>Conſider his out-ragious cruelty againſt his Inſeriours, how he devoured his fellow Subjects, offering of many thouſand ſpightfull indignities to their perſons, by which hee has made himſelf odious to all good men. He is the Monſter of the world, from whom (ſtill) to be delivered we ſhould doe well to make it a branch of our deprecation. His very name one time was as
+<pb n="5" facs="tcp:160176:5"/>
+               <!-- PDF PAGE 11 -->
+               <hi>formidable</hi> as now <hi>odious.</hi> Their armies (for the moſt part) con<g ref="char:EOLhyphen"/>ſiſted of a <hi>Miſcelany</hi> of men from all ſtrange Nations <hi>Walloons, French, Dutch, Redſhanks, Iriſh-Cath<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </hi> having onl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the out-ſides of men, and ſcarce th<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſt <hi>mercies</hi> were extreame <hi>cruelties;</hi> the <hi>Characters</hi> of which, <hi>one that run<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ay read,</hi> upon thoſe unfortunate Garriſons that were under their Commands, plainer then in this <hi>Character;</hi> in which (as in a little Map) there is not room fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſcription of ſmall places.</p>
+            <p>The Lawes of <hi>Nature</hi> and <hi>Nati<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> A<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y of <hi>Poſitive</hi> and <hi>written</hi> Lawes, the laudable <hi>Cuſtomed</hi> and <hi>Liberties</hi> of <hi>England,</hi> (to which we are all born) were by the <hi>Rapines Plun<g ref="char:EOLhyphen"/>ders, Murthers, Extortions,</hi> and <hi>Exactions</hi> of this <hi>Malignant-Rebell</hi> ſubverted and trampled under foot.</p>
+            <p>And now we talke of <hi>Liberty,</hi> let's take <hi>Liberty</hi> a little to <hi>Characterize</hi> the <hi>Libertives</hi> of theſe times, who take <hi>Liberty of practice</hi> to act thoſe things that modeſty <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> me conceale.</p>
+            <p>With this <hi>Cavaliere</hi> I might alſo picture for the home-bred Enemy, that is a little nearer to us, and is as active, as ever<g ref="char:punc">▪</g> 
+               <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> onely our unhappineſſe does not break forth in open A<gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> but the hatred (he conceives againſt us) is ſo great, that if ſhould <hi>Characterize</hi> that, (inſtead of the man) you would rather ad<g ref="char:EOLhyphen"/>mire me, then believe me.</p>
+            <p>And his great deſigne that hee hath drove of late hath beene how to divide the <hi>two Nations, England and Scotland</hi> which if they could have done, their <hi>errors, hereſies bla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phemies ſchiſmes,</hi> and <hi>diviſions</hi> would have crept in to every c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rner of t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd.</p>
+            <p>I could here ſhew it under their owne hand-wr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting, and bring in a <hi>Black Catalogue</hi> of their Books, many in number, that even the very Titles of them (if care<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ully collected to<g ref="char:EOLhyphen"/>gether) would ſwell it ſelf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, with ſome few enlarg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments, into a reaſonable volume; all which they have uſed as ſo many fatall Engines and Plots, <hi>firſt</hi> to divide us here at home, and ſo make us miſerable, &amp; <hi>then</hi> abroad to hinder all Union or Cove<g ref="char:EOLhyphen"/>nant with our Brethren, for fe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re in it there be a Clauſe againſt <hi>Errors, Hereſies,</hi> and <hi>Schiſm<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>;</hi> and ſo adde more unhap<g ref="char:EOLhyphen"/>pineſſe to our Miſerie, by adding Oyle to augment the flames.</p>
+            <p>But if theſe <hi>flamee of Contention</hi> bee not cautiouſly and timely prevented, they will prove more fatall to our Churches
+<pb n="6" facs="tcp:160176:6"/>
+               <!-- PDF PAGE 12 -->and Kingdomes then all the former diſſentions, eſpecially (if it proceed ſo farre) that it breaks forth into a new Civill <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> amongſt but ſelves, now we have totally vanquiſhed the <hi>C<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mon-Enemy,</hi> the <hi>Cavalier enemy.</hi>
+            </p>
+            <p>Both of them have been very active by their <hi>Machivilian policies</hi> to divide us, but 'tis a happineſſe they were permitted but to marke us out for Ruine, and were not able to accompliſh that that their malice had intended; for certainly; if we that are now (ſo happily) <hi>United,</hi> had beene, (or ſhould be) <hi>divi<g ref="char:EOLhyphen"/>ded,</hi> we ſhould ſet open a gap to let in the old exploded <hi>Prela<g ref="char:EOLhyphen"/>cy,</hi> and <hi>Epiſcopacy,</hi> or introduce the more feared <hi>Anarchicall Hydra,</hi> or <hi>Babel of Independency.</hi>
+            </p>
+            <p>Of this latter there are a neſt of the vileſt Vipers, that ever <hi>Affrick</hi> or <hi>Nilus</hi> did produce. You have the <hi>Anabaptiſts,</hi> the <hi>Browniſts,</hi> the <hi>Adamites, Familiſts,</hi> the <hi>prophane Libertine,</hi> with the <hi>Envious Hypocrite</hi> all masking themſelves under the Vizard of <hi>Independency:</hi> A <hi>Generation</hi> that if long permit<g ref="char:EOLhyphen"/>ted to encreaſe, will <hi>Viper</hi>-like eate out the Bowels of their naturall mother, the Church of <hi>England.</hi>
+            </p>
+            <p>If this <hi>ſpirituall Yoake</hi> come upon us, we may ſooner be<g ref="char:EOLhyphen"/>waile it, then remove it: Let us therefore with <hi>the Apoſtle</hi> endeavour to <hi>quit our ſelves like men.</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> 5.1.</note> And ſo I end my <hi>Cha<g ref="char:EOLhyphen"/>racter</hi> with the <hi>beginning</hi> of the 5. Chapter of <hi>Paul</hi> to the <hi>Ga<g ref="char:EOLhyphen"/>latians: Stand faſt therefore in the Liberty, wherewith Chriſt hath made us free and be not againe  ent<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngled with any Yoake of bondage:</hi> with the Yoak of ſlaverie <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the firſt part of my <hi>Character</hi> ſet forth, nor this of the latter. <hi>New-fangled flattering Sectariſme;</hi> from both which to be delivered, (and that we may obſerve a <hi>golden meane</hi>) there's but few but will ſay. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
